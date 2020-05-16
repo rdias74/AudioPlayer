@@ -11,3 +11,4 @@ Features:
 - recording the audio playback to a new sound file;
 - set up to 4 location playback markers;
 - sound file info; duration, sample rate, number of audio channels;
+- setup audio output device, port and channels;
