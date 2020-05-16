@@ -1,5 +1,8 @@
 # AudioPlayer
 v 0.41
+by Rui Dias
+http://www.ruidias.pt/software
+
 
 AudioPlayer is an audio file player built in MaxMSP.
 Features:
@@ -12,3 +15,4 @@ Features:
 - set up to 4 location playback markers;
 - sound file info; duration, sample rate, number of audio channels;
 - setup audio output device, port and channels;
+
